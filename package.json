@@ -1,0 +1,17 @@
+{
+  "name": "CIP-MTA",
+  "version": "1.0.0",
+  "description": "CIP Machine Tracker mobile app rest API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GSD Mobile - Platform Solutions",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "*",
+    "express": "3.x",
+    "seriate": "^0.8.0",
+    "mongodb": "^2.2.33"
+  }
+}
